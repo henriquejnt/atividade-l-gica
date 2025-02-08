@@ -2,7 +2,8 @@ programa
 {
 	
 	funcao inicio()
-	{ 
+	{
+ 
 		inteiro vetor[15]
 		inteiro a = 0, b =0
 		enquanto (a <= 14){
