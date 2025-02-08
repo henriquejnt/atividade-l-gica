@@ -2,7 +2,8 @@ programa
 {
 	
 	funcao inicio()
-	{  inteiro vetor[10]
+	{
+  inteiro vetor[10]
 	   inteiro i = 0, a = 0
 	   // adiciona os valores para o vetor
 	   enquanto(i <= 9){
