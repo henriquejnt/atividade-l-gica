@@ -2,7 +2,8 @@ programa
 {
 	
 	funcao inicio()
-	{ inteiro vetor[10]
+	{
+ inteiro vetor[10]
 	  inteiro a, b,c,p=0,o = 0,  quant_a = 0,quant_b =0,quant_c =0
 	  enquanto  (p <= 9){
 	  	escreva("A: ")
